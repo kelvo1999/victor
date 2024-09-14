@@ -6,4 +6,4 @@ background: purple
 shade of gray and silver
 
 
-# lifestyle brand site
+# lyfstyl brand site
