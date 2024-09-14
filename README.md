@@ -1,2 +1,6 @@
-# victor
-More of cocacola feel the moment
+# GhViƆɔ
+
+
+
+background: purple
+shade of gray and silver
