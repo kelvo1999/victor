@@ -6,4 +6,4 @@ background: purple
 shade of gray and silver
 
 
-# lifestyle branding site
+# lifestyle brand site
